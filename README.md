@@ -1,4 +1,4 @@
 # joy-division-excel
-Plotting popular Joe Division's 'Unkown Pleasures' album cover with Excel
+Plotting the popular Joy Division's 'Unkown Pleasures' album cover using Excel
 
 ![joy-division-excel](/joydivisionexcel.png)
